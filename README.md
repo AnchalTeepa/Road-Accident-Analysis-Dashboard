@@ -161,8 +161,8 @@ Road-Accident-Data-Analysis-Dashboard
 
 ### 📫 Connect with Me
 
-- GitHub: https://github.com/YourGitHubUsername
-- LinkedIn: https://www.linkedin.com/in/YourLinkedInProfile/
+- GitHub: https://github.com/AnchalTeepa
+- LinkedIn: https://www.linkedin.com/in/anchal-teepa
 
 ---
 
