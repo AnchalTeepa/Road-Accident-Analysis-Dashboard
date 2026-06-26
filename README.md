@@ -40,11 +40,8 @@ This project presents an interactive **Road Accident Analysis Dashboard** built 
 
 ## 📸 Dashboard Preview
 
-> Add your dashboard screenshot inside the **Screenshots** folder.
+<img width="1836" height="886" alt="image" src="https://github.com/user-attachments/assets/d1df3951-1659-4fd2-b8b3-e99bd185d278" />
 
-```markdown
-![Dashboard](Screenshots/Dashboard_Screenshot.png.png)
-```
 
 ---
 
